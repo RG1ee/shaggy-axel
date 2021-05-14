@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shaggy-axel
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: shaggy_gud01@mail.ru
 
