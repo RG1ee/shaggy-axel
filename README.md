@@ -25,5 +25,9 @@ You can click the Preview link to take a look at your changes.
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaggy-axel&hide=contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=29&custom_title=Shaggy%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy-axel&theme=radical&layout=compact&langs_count=10)
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shaggy-axel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
+<!-- ## My Wakatime Stats ⌚ -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="@rahulbanerjee26&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@shaggy-axel&compact=True"/>
+</a> -->
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@shaggy-axel&compact=true)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shaggy-axel&layout=compact) -->
