@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaggy-axel&hide=contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=29&custom_title=Shaggy%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy-axel&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy-axel&theme=radical&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shaggy-axel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
