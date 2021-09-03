@@ -6,3 +6,4 @@ postgres_data
 *.flag
 *.db
 static
+media
