@@ -8,16 +8,23 @@ from apps.users.models import Member
 # Member = get_user_model()
 
 
-class MemberSerializer(serializers.ModelSerializer):
+class MemberRagisterSerializer(serializers.ModelSerializer):
     class Meta:
         model = Member
-        fields = ('username',
+        fields = ('username', 'password',
                   'first_name', 'last_name',
-                  'email', 'password',
-                  'sex', 'profile_photo',)
-
-    # def validate_password(self, value: str) -> str:
-    #     return make_password(value)
+                  'sex', 'profile_photo')
 
     def create(self, validated_data):
         return Member.objects.create_user(**validated_data)
+
+class MemberDetailSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Member
+        fields = '__all__'
+
+
+class MemberListSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Member
+        fields = ('username', 'first_name', 'last_name')

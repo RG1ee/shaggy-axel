@@ -1,8 +1,10 @@
 from django.contrib.auth import get_user_model
 
-from .serializers import MemberSerializer
+from .serializers import MemberDetailSerializer, MemberListSerializer, MemberRagisterSerializer
 from rest_framework import viewsets, generics, status
-from rest_framework.generics import CreateAPIView, ListAPIView, RetrieveAPIView
+from rest_framework.generics import CreateAPIView, ListAPIView
+from rest_framework.views import APIView
+from rest_framework.response import Response
 from rest_framework.permissions import AllowAny, IsAuthenticated
 
 
@@ -11,21 +13,19 @@ Member = get_user_model()
 
 class MemberListApiView(ListAPIView):
     permission_classes = (IsAuthenticated,)
-    serializer_class = MemberSerializer
+    serializer_class = MemberListSerializer
     queryset = Member.objects.all()
 
 
 class MemberCreateApiView(CreateAPIView):
     permission_classes = (AllowAny,)
-    serializer_class = MemberSerializer
+    serializer_class = MemberRagisterSerializer
     queryset = Member.objects.all()
 
 
-class MemberDetailApiView(RetrieveAPIView):
+class MemberDetailApiView(APIView):
     permission_classes = (IsAuthenticated,)
-    serializer_class = MemberSerializer
-    queryset = Member.objects.all()
 
-# class MemberViewSet(viewsets.ModelViewSet):
-#     queryset = Member.objects.all()
-#     serializer_class = MemberSerializer
+    def get(self, request):
+        serializer = MemberDetailSerializer(request.user)
+        return Response(serializer.data)
