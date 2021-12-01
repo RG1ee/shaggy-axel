@@ -1,3 +1,8 @@
-from django.shortcuts import render
+from django.http import FileResponse, Http404
 
-# Create your views here.
+
+def resume_view(request):
+    try:
+        return FileResponse(open('my_resume.pdf', 'rb'))
+    except FileNotFoundError:
+        raise Http404()
