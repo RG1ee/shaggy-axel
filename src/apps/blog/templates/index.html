@@ -1,15 +1,24 @@
+{% load static %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link href="{% static 'index.css' %}" rel="stylesheet">
 </head>
 <body>
+<header>BLOG</header>
+    <div class="raw">
     {% for post in post_list %}
+      <div class="card">
         <h2>{{ post.title }}</h2>
-        <p> Author: {{ post.author }}</p>
-        {{ post.content|slice:":200" }}
+        <h3>Author: {{ post.author }} | {{ post.updated_on }} </h3>
+        <div class="fakeimg" style="height:200px;">Image</div>
+        <p>{{ post.content|slice:":200" }}</p>
         <a href="{% url 'post_detail' post.slug  %}"> [. . . Read More &rarr;]</a>
+      </div>
     {% endfor %}
+    </div>
+<footer>END</footer>
 </body>
 </html>

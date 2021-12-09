@@ -7,5 +7,6 @@ postgres_data
 *.log
 *.flag
 *.db
-static
+static/
+src/static/
 media
