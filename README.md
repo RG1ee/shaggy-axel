@@ -18,7 +18,9 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 
 ### Get in touch
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/shaggy_axel)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/shaggy_axel) <br>
+[![Mail](https://img.shields.io/badge/Mail-To-red)](mailto:kornerus@fjfi.cvut.cz)
+[![Resume](https://img.shields.io/badge/My-Resume-brightgreen)](https://resume.shaggyaxel.ru/)
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaggy-axel&hide=contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&custom_title=Shaggy)
