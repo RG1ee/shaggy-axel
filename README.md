@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 [![Resume](https://img.shields.io/badge/My-Resume-brightgreen)](https://resume.shaggyaxel.ru/)
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaggy-axel&hide=contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&custom_title=Shaggy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaggy-axel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&custom_title=Shaggy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy-axel&theme=radical&layout=compact&langs_count=12)
 <!-- ## My Wakatime Stats ⌚ -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
