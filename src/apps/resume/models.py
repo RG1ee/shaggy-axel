@@ -108,7 +108,7 @@ class Job(models.Model):
     resume = models.ForeignKey(Resume, on_delete=models.CASCADE)
 
     position = models.CharField(_('Position'), max_length=100)
-    company = models.CharField(_('Company'),max_length=100)
+    company = models.CharField(_('Company'), max_length=100)
     stack = models.ManyToManyField(Skill)
     start_date = models.DateField()
     end_date = models.DateField()
@@ -132,7 +132,9 @@ class Portfolio(models.Model):
     title = models.CharField(_('Project Title'), max_length=100)
     description = models.TextField(_('Description'))
     stack = models.ManyToManyField(Skill, blank=True, symmetrical=False)
-    photo = models.ImageField(_('Photo'), upload_to='portfolio/', default='default/project.jpg')
+    photo = models.ImageField(
+        _('Photo'), upload_to='portfolio/',
+        default='default/project.jpg')
     github = models.URLField(_('GitHub'), blank=True, null=True)
     link = models.URLField(_('Web'), blank=True, null=True)
 
@@ -140,6 +142,6 @@ class Portfolio(models.Model):
         return f"{self.title} - {self.description[:10]} . . ."
 
     class Meta:
-        db_table = 'portfolio'            
+        db_table = 'portfolio'
         verbose_name = 'Project'
         verbose_name_plural = 'Projects'
