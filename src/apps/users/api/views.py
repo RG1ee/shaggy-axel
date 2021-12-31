@@ -1,6 +1,9 @@
 from django.contrib.auth import get_user_model
 
-from .serializers import MemberDetailSerializer, MemberListSerializer, MemberRagisterSerializer
+from .serializers import (
+    MemberDetailSerializer,
+    MemberListSerializer,
+    MemberRagisterSerializer)
 
 from rest_framework.generics import CreateAPIView, ListAPIView
 from rest_framework.views import APIView
