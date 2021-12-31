@@ -7,6 +7,7 @@
 <body>
     <h2>{{ post.title }}</h2>
     <p> Author: {{ post.author }}</p>
+    <img src="{{ post.image.url }}"/>
     <p>{{ post.content }}</p>
     <p>Created: {{ post.created_on }}</p> 
     <p>Updated: {{ post.updated_on }}</p>
