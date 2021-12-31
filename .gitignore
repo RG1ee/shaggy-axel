@@ -8,4 +8,7 @@ postgres_data
 *.flag
 *.db
 static
-media
+**/media/**
+!**/media/**/
+!**/media/blog/default/**
+!**/media/blog/default/*
