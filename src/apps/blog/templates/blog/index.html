@@ -7,14 +7,19 @@
     <link rel="stylesheet" href="{% static 'blog/css/main.css' %}">
 </head>
 <body background="{% static 'images/background.jpg' %}">
-    {% for post in post_list %}
-        <h2>{{ post.title }}</h2>
-        <p> Author: {{ post.author }}</p>
-        {{ post.content|slice:":200" }}
-        <a href="{% url 'post_detail' post.slug  %}"> [. . . Read More &rarr;]</a>
-        {% if post_list.last != post %}
-            <hr>
-        {% endif%}
-    {% endfor %}
+    <div class="menu"></div>
+    <div class="blog-list">
+        {% for post in post_list %}
+            <a href="{% url 'post_detail' post.slug  %}">
+                <h2 class="title">{{ post.title }}</h2>
+            </a>
+            <p> Author: {{ post.author }}</p>
+            <img class="images-list" src="{{ post.image.url }}"/>
+            {{ post.content|slice:":200" }}
+            {% if post_list.last != post %}
+                <hr>
+            {% endif%}
+        {% endfor %}
+    </div>
 </body>
 </html>

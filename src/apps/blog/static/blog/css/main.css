@@ -1,0 +1,33 @@
+.images-detail {
+  width: 1080;
+  height: 540;
+}
+
+.images-list {
+  width: 360;
+  height: 180;
+  flex: 1;
+  border-radius: 10%;
+}
+
+.menu {
+  background-color: cadetblue;
+  flex:10%
+}
+
+.blog-list {
+  background-color: burlywood;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 5%;
+}
+
+body {
+  background-color: darkcyan;
+}
+
+.title {
+  margin-left: 35%;
+  margin-right: 35%;
+
+}
