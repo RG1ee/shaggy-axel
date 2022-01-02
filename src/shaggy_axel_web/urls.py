@@ -4,6 +4,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 from apps.resume.views import resume_view
+from apps.timetable.views import timetable_render_view
 
 
 urlpatterns = [
@@ -14,6 +15,7 @@ urlpatterns = [
     path('api/users/', include('apps.users.api.urls')),
     path('resume/', resume_view, name="shaggy-resume"),
     path('blog/', include('apps.blog.urls')),
+    path('timetable/', timetable_render_view)
 ]
 
 # urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
