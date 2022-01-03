@@ -21,68 +21,20 @@
               <div class="weekend">sunday</div>
             </div>
             <div class="time-interval">
-              <div>8:00 - 10:00</div>
-              <div>10:00 - 12:00</div>
-              <div>12:00 - 14:00</div>
-              <div>14:00 - 16:00</div>
-              <div>16:00 - 18:00</div>
-              <div>18:00 - 20:00</div>
+              {% for time in work_time_list%}
+                <div>{{time}}</div>
+              {% endfor %}
             </div>
             <div class="content">
-              <div>
-                <div class="accent-orange-gradient">1</div>
-              </div>
-              <div>2</div>
-              <div>3</div>
-              <div>4</div>
-                  <div>
-                <div class="accent-green-gradient"></div>
-              </div>
-              <div class="weekend"></div>
-              <div class="weekend"></div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div>
-                <div class="accent-cyan-gradient"></div>
-              </div>
-              <div></div>
-              <div class="weekend"></div>
-              <div class="weekend"></div>
-              <div>
-                <div class="accent-pink-gradient"></div>
-              </div>
-              <div></div>
-              <div>
-                <div class="accent-purple-gradient"></div>
-              </div>
-              <div></div>
-              <div></div>
-              <div class="weekend"></div>
-              <div class="weekend"></div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div class="weekend"></div>
-              <div class="weekend"></div>
-              <div>
-                <div class="accent-purple-gradient"></div>
-              </div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div class="weekend"></div>
-              <div class="weekend"></div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div class="weekend"></div>
-              <div class="weekend"></div>
+              {% for i in work_time_list %}
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div class="weekend"></div>
+                <div class="weekend"></div>
+              {% endfor %}
             </div>
           </div>
     </body>
