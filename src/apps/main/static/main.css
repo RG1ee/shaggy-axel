@@ -1,5 +1,34 @@
 body {
-    background-image: linear-gradient(135deg, #221374d8, #0d0338);
+    background-image: linear-gradient(135deg, #20155fd8, #150d3a, #1f1227, rgb(12, 26, 21));
+}
+
+.info-box{
+    background-image: linear-gradient(135deg, #000000, #270750, #631591);
+    margin-right: 50%;
+    margin-top: 2%;
+    border-radius: 3px;
+
+    opacity:0;
+    transition: 1s;
+
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.822), 0 0 40px rgba(0, 0, 0, 0.733) inset;
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.904), 0 0 40px rgba(0, 0, 0, 0.836) inset;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.808), 0 0 40px rgba(0, 0, 0, 0.842) inset;
+}
+
+.info-text {
+    font-size: 25px;
+    background: -webkit-linear-gradient(rgb(7, 21, 102), rgb(92, 27, 122));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #9a8dda;
+
+    font-family: 'Roboto Mono', monospace;
+    padding: 0.20em 0.4em;
+}
+
+body:hover .info-box{
+    opacity:1;
+    transition: 1s;
 }
 
 .typing-wrapper {
@@ -25,9 +54,9 @@ body {
 }
 
 @keyframes typing {
-from {
-    width: 0
-}
+    from {
+        width: 0
+    }
 }
     
 @keyframes blink {
