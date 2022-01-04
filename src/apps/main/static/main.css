@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(135deg, #221374d8, #0d0338);
+}
+
+.typing-wrapper {
+    color:#0b0114;
+    background-color: rgba(27, 31, 35, 0.575);
+    border-radius: 3px;
+    font-size: 85%;
+    margin-right: 700;
+    padding: 0.2em 0.4em;
+
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.typing {
+    width: 25ch;
+    animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 4px solid;
+    font-size: 1em;
+}
+
+@keyframes typing {
+from {
+    width: 0
+}
+}
+    
+@keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: rgb(238, 226, 226) }
+}
