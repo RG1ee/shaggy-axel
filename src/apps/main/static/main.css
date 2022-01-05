@@ -33,12 +33,12 @@ body {
     -webkit-text-fill-color: #9a8dda;
 
     font-family: 'Roboto Mono', monospace;
-    padding: 0.20em 0.4em;
+    padding: 0.2em 0.4em;
 }
 
 .typing-wrapper {
     color:#0b0114;
-    background-color: rgba(27, 31, 35, 0.575);
+    background-color: rgba(51, 52, 54, 0.575);
     border-radius: 3px;
     font-size: 85%;
     position: relative;
@@ -47,6 +47,9 @@ body {
     margin-top: 5%;
     padding: 0.2em 0.4em;
 
+    background: -webkit-linear-gradient(rgb(7, 21, 102), rgb(92, 27, 122));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #9a8dda;
     font-family: 'Roboto Mono', monospace;
     font-size: 1rem;
     line-height: 1.5;
