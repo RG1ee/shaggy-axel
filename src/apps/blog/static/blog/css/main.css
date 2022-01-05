@@ -6,8 +6,8 @@
 .images-list {
   width: 360;
   height: 180;
-  flex: 1;
-  border-radius: 10%;
+  margin-left: 10px;
+  border-radius: 6px;
 }
 
 .menu {
@@ -16,18 +16,63 @@
 }
 
 .blog-list {
-  background-color: burlywood;
+  margin-top: 10%;
+  margin-bottom: 10%;
   margin-left: 20%;
   margin-right: 20%;
-  border-radius: 5%;
 }
 
-body {
-  background-color: darkcyan;
+.post-in-list {
+  background-image: linear-gradient(135deg, #000000, #270750, #631591);
+  border-radius: 3px;
+
+  animation-name:opacity;
+  animation-duration:4s;
+
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.822), 0 0 40px rgba(0, 0, 0, 0.733) inset;
+  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.904), 0 0 40px rgba(0, 0, 0, 0.836) inset;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.808), 0 0 40px rgba(0, 0, 0, 0.842) inset;
+}
+
+.author-in-list {
+  margin-left: 70%;
+  margin-top: -5%;
+
+  color:#0b0114;
+  background-color: rgba(51, 52, 54, 0.575);
+  border-radius: 3px;
+  font-size: 85%;
+
+  background: -webkit-linear-gradient(rgb(7, 21, 102), rgb(92, 27, 122));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #9a8dda;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.content-in-list {
+  margin-bottom: 10%;
+
+  font-size: 22px;
+  background: -webkit-linear-gradient(rgb(7, 21, 102), rgb(92, 27, 122));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #9a8dda;
+
+  font-family: 'Roboto Mono', monospace;
+  padding: 0.2em 0.4em;
+}
+
+@keyframes opacity{
+  0%{opacity:0;}
+  100%{opacity:1;}
 }
 
 .title {
   margin-left: 35%;
   margin-right: 35%;
+}
 
+body {
+  background-image: linear-gradient(135deg, #20155fd8, #150d3a, #1f1227, rgb(12, 26, 21));
 }

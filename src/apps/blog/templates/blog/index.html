@@ -5,21 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blog</title>
     <link rel="stylesheet" href="{% static 'blog/css/main.css' %}">
+    <script type="text/javascript">
+        
+		ai_background=new WarpSpeed("bkFrame",
+            {targetSpeed:0.8, speedAdjFactor:0.07,
+             shape:"square", backgroundColor:"hsl(263,45%,8%)",
+             speedWhileLoading:18}
+        );
+	
+    </script>
 </head>
-<body background="{% static 'images/background.jpg' %}">
+<body>
     <div class="menu"></div>
+    <hr>
     <div class="blog-list">
         {% for post in post_list %}
+        <div class="post-in-list">
             <a href="{% url 'post_detail' post.slug  %}">
                 <h2 class="title">{{ post.title }}</h2>
             </a>
-            <p> Author: {{ post.author }}</p>
             <img class="images-list" src="{{ post.image.url }}"/>
-            {{ post.content|slice:":200" }}
-            {% if post_list.last != post %}
-                <hr>
-            {% endif%}
+            <p class="author-in-list"> Author: {{ post.author }} </p>
+            <p class="content-in-list">{{ post.content|slice:":200" }}</p>
+        </div>
         {% endfor %}
     </div>
+    <hr>
 </body>
 </html>
