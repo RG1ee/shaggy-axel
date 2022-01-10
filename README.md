@@ -62,10 +62,13 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 📊 GitHub Stats
-![](https://komarev.com/ghpvc/?username=shaggy-axel&label=Profile%20views&color=0e75b6&style=plastic) <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaggy-axel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&custom_title=Shaggy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy-axel&theme=radical&layout=compact&langs_count=12)
-![Heroku App](https://github-readme-streak-stats.herokuapp.com/?user=shaggy-axel&theme=radical)
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=shaggy-axel&label=visitors&color=0e75b6&style=plastic"/> </div><br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shaggy-axel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&custom_title=Shaggy"/>  </div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy-axel&theme=radical&layout=compact&langs_count=12"/> </div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaggy-axel&theme=radical"/> </div>
 
 ## 🖥 Developer in
 [![image](https://user-images.githubusercontent.com/79697348/147478917-a948eb8f-f9eb-4126-b32f-e2d00cdf2bce.png)](https://supplar.cloud/)
