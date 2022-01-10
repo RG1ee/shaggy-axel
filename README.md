@@ -15,14 +15,49 @@ You can click the Preview link to take a look at your changes.
 - [![Resume](https://img.shields.io/badge/My-Resume-brightgreen)](https://resume.shaggyaxel.ru/)
 
 ### 🛠 Languages and Tools
-![image](https://user-images.githubusercontent.com/79697348/147875857-b600a991-4825-4fc3-8979-db074e0aeae7.png)
-![image](https://user-images.githubusercontent.com/79697348/147875874-dbd84371-03b9-4efd-b931-0bd3fadabc59.png)
-![image](https://user-images.githubusercontent.com/79697348/147875878-81698810-aa5a-476b-92ce-576e9af48e89.png)
+### Backend
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
+![docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker)
+![django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django)
+![telegram](https://img.shields.io/badge/TelegramApi-000000?style=for-the-badge&logo=Telegram)
 <br>
-![image](https://user-images.githubusercontent.com/79697348/147875890-8798f62a-a152-403f-9d0e-d4177e5ed9c1.png)
-![image](https://user-images.githubusercontent.com/79697348/147875896-5b85bac3-a2a8-4a7d-bd71-b4c771e501d1.png)
-![image](https://user-images.githubusercontent.com/79697348/147875882-677de04f-0de1-4323-a6b6-08a0a564ff05.png)
-![image](https://user-images.githubusercontent.com/79697348/147875912-f9720c29-0f5c-4f26-aff9-738bc1c63080.png)
+![postgresql](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)
+![mysql](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL)
+![sqlite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=turquoise)
+![mongodb](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB)
+<br>
+![nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=Nginx&logoColor=green)
+![redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=Redis)
+![rabbitmq](https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=RabbitMQ)
+<br>
+![celery](https://img.shields.io/badge/celery-000000?style=for-the-badge&logo=Celery&logoColor=green)
+![grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=Grafana)
+![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=Prometheus)
+
+### Set Up
+![windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=blue)
+![debian](https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=Debian&logoColor=red)
+![neovim](https://img.shields.io/badge/NEOVIM-000000?style=for-the-badge&logo=NeoVim)
+![tmux](https://img.shields.io/badge/Tmux-000000?style=for-the-badge&logo=Tmux)
+![vscode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+
+### BaaS
+![digitalocean](https://img.shields.io/badge/digitalocean-000000?style=for-the-badge&logo=DigitalOcean)
+![heroku](https://img.shields.io/badge/heroku-000000?style=for-the-badge&logo=Heroku&logoColor=violet)
+![selectel](https://img.shields.io/badge/selectel-000000?style=for-the-badge&logo=Selectel&logoColor=red)
+
+### Source Control
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![gitlab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=GitLab)
+![bitbucket](https://img.shields.io/badge/BitBucket-000000?style=for-the-badge&logo=BitBucket&logoColor=blue)
+
+### Frontend and Design
+![html](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=HTML5)
+![css](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=CSS3) <br>
+![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=JavaScript)
+![react-js](https://img.shields.io/badge/reactjs-000000?style=for-the-badge&logo=React) <br>
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=Figma)
+
 
 
 ### 📊 GitHub Stats
