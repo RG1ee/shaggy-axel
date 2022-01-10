@@ -33,7 +33,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 ![celery](https://img.shields.io/badge/celery-000000?style=for-the-badge&logo=Celery&logoColor=green)
 ![grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=Grafana)
-![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=Prometheus)
+![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=Prometheus) <br>
+![amazons3bucket](https://img.shields.io/badge/Amazon%20S3%20Bucket-000000?style=for-the-badge&logo=AmazonS3)
 
 ### Workspace Setup
 ![windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=blue)
@@ -46,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 ![digitalocean](https://img.shields.io/badge/digitalocean-000000?style=for-the-badge&logo=DigitalOcean)
 ![heroku](https://img.shields.io/badge/heroku-000000?style=for-the-badge&logo=Heroku&logoColor=violet)
 ![selectel](https://img.shields.io/badge/selectel-000000?style=for-the-badge&logo=Selectel&logoColor=red)
+![aws](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=Amazon)
 
 ### Source Control
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
