@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ![grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=Grafana)
 ![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=Prometheus)
 
-### Set Up
+### Workspace Setup
 ![windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=blue)
 ![debian](https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=Debian&logoColor=red)
 ![neovim](https://img.shields.io/badge/NEOVIM-000000?style=for-the-badge&logo=NeoVim)
