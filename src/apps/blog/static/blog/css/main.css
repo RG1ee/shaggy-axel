@@ -1,12 +1,19 @@
+.welcome-box {
+  display: flex;
+  flex-direction: row;
+}
+
 .images-detail {
-  width: 1080;
-  height: 540;
+  width: 720;
+  height: 360;
+  border-radius: 6px;
 }
 
 .images-list {
   width: 360;
   height: 180;
-  margin-left: 10px;
+  margin-left: 40px;
+  margin-top: 10px;
   border-radius: 6px;
 }
 
@@ -18,11 +25,14 @@
 .blog-list {
   margin-top: 10%;
   margin-bottom: 10%;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .post-in-list {
+  display: flex;
+  flex-direction: row;
+
   background-image: linear-gradient(135deg, #000000, #270750, #631591);
   border-radius: 3px;
 
@@ -34,9 +44,15 @@
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.808), 0 0 40px rgba(0, 0, 0, 0.842) inset;
 }
 
+.post-detail {
+  color:rgb(210, 208, 211);
+}
+
 .author-in-list {
-  margin-left: 70%;
-  margin-top: -5%;
+  /* display: flex; */
+  /* margin-left: 70%; */
+  /* margin-top: -5%; */
+  margin-left: 10px;
 
   color:#0b0114;
   background-color: rgba(51, 52, 54, 0.575);
@@ -52,8 +68,7 @@
 }
 
 .content-in-list {
-  margin-bottom: 10%;
-
+  margin-top: 10px;
   font-size: 22px;
   background: -webkit-linear-gradient(rgb(7, 21, 102), rgb(92, 27, 122));
   -webkit-background-clip: text;
@@ -69,8 +84,8 @@
 }
 
 .title {
-  margin-left: 35%;
-  margin-right: 35%;
+  /* margin-left: 35%;
+  margin-right: 35%; */
 }
 
 body {
