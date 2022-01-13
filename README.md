@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 ![grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=Grafana)
 ![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=Prometheus) <br>
 ![amazons3bucket](https://img.shields.io/badge/Amazon%20S3%20Bucket-000000?style=for-the-badge&logo=AmazonS3)
+![pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas)
 
 ### Workspace Setup
 ![windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=blue)
