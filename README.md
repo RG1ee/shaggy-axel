@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy-axel&theme=radical&layout=compact&langs_count=12"/> </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaggy-axel&theme=radical"/> </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaggy-axel&theme=github-dark&hide_border=true"/> </div>
 
 ## 🖥 Developer in
 [![image](https://user-images.githubusercontent.com/79697348/147478917-a948eb8f-f9eb-4126-b32f-e2d00cdf2bce.png)](https://supplar.cloud/)
