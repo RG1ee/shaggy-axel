@@ -16,18 +16,19 @@ You can click the Preview link to take a look at your changes.
 [![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume)](https://resume.shaggyaxel.ru/)
 
 ### 🛠 Languages and Tools
-![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
-![docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker)
-![django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django)
-![postgresql](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)
-![react-js](https://img.shields.io/badge/reactjs-000000?style=for-the-badge&logo=React)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![drf](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![react-js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Workspace Setup
 ![windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=blue)
+![vscode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![debian](https://img.shields.io/badge/Debian[WSL]-000000?style=for-the-badge&logo=Debian&logoColor=red)
 ![neovim](https://img.shields.io/badge/NEOVIM-000000?style=for-the-badge&logo=NeoVim)
 ![tmux](https://img.shields.io/badge/Tmux-000000?style=for-the-badge&logo=Tmux)
-![vscode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
 
 
