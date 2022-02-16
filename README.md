@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 [![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume)](https://resume.shaggyaxel.ru/)
 
 ### 🛠 Languages and Tools
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=blue)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![drf](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
