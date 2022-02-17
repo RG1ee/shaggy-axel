@@ -23,8 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![react-js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Workspace Setup![68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7368616767792d6178656c267468656d653d767565](https://user-images.githubusercontent.com/79697348/154415943-d9412cf0-b543-43c4-bb52-638474730a54.svg)
-
+### Workspace Setup!
 ![windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=blue)
 ![vscode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![debian](https://img.shields.io/badge/Debian[WSL]-000000?style=for-the-badge&logo=Debian&logoColor=red)
