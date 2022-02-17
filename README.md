@@ -59,11 +59,22 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details><summary><h2> 🖥 Developer in </h2></summary>
-
-[![image](https://user-images.githubusercontent.com/79697348/147478917-a948eb8f-f9eb-4126-b32f-e2d00cdf2bce.png)](https://supplar.cloud/)
-<!-- ![garaz](https://user-images.githubusercontent.com/79697348/147487745-e408fbfc-d737-4361-baae-de733f3626f3.png)
- -->
- * * *
- [![image](https://user-images.githubusercontent.com/79697348/147487899-0598af4b-6388-48be-a419-3be0567648db.png) GARAЖ - Corpberry](https://www.instagram.com/garazh.space/)
-
+<div style="display: flex; background-color: white; border-radius: 1em; align-self: center; width: 135px;">
+    <div style="background-color: rgb(37, 35, 35); border-radius: 6em; width: 100px;">
+        <img style="position:relative; top: 6px;" src="https://user-images.githubusercontent.com/79697348/154455296-7138f1e3-badb-43c7-996d-0a8bbec0fa29.png" width="180">
+        <a href="https://supplar.cloud">Supplar - write backend for this mobile app</a>
+    </div>
+    <div style="position:relative; left: 3px; top: 100px;">
+        <img src="https://user-images.githubusercontent.com/79697348/154455058-90b19763-5a27-45b2-8d26-82469d69dead.png" width="90">
+        <a href="https://www.instagram.com/garazh.space/">GARAZH - outsource company</a>
+    </div>
+    <div style="position:relative; left: 6px; top: 100px;">
+        <img src="https://user-images.githubusercontent.com/79697348/154445828-6f470b1c-865d-4926-a834-472b1d3a9487.png" width="90">
+        <a href="https://github.com/imega-webrx/">WebRX - write an scrapers for this startup</a>
+    </div>
+    <div style="position:relative; left: 9px; top: 100px;">
+        <img src="https://user-images.githubusercontent.com/79697348/154449529-24e070a3-2ce7-4402-827d-dcf4582700fd.png" width="90">
+        <a href="https://github.com/shaggy-axel-apps">Shaggy-Axel Organization - my organization with opensource different apps and tools</a>
+    </div>
+</div>
 </details>
