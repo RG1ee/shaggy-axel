@@ -23,7 +23,8 @@ You can click the Preview link to take a look at your changes.
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![react-js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Workspace Setup
+### Workspace Setup![68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7368616767792d6178656c267468656d653d767565](https://user-images.githubusercontent.com/79697348/154415943-d9412cf0-b543-43c4-bb52-638474730a54.svg)
+
 ![windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=blue)
 ![vscode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![debian](https://img.shields.io/badge/Debian[WSL]-000000?style=for-the-badge&logo=Debian&logoColor=red)
@@ -35,11 +36,32 @@ You can click the Preview link to take a look at your changes.
 ### 📊 GitHub Stats
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=shaggy-axel&label=visitors&color=0e75b6&style=plastic"/> </div><br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shaggy-axel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&custom_title=Shaggy"/>  </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=shaggy-axel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&custom_title=Shaggy"/>
+</div>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy-axel&theme=radical&layout=compact&langs_count=12"/> </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy-axel&theme=radical&layout=compact&langs_count=12"/>
+</div>
+
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaggy-axel&theme=github-dark&hide_border=true"/> </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaggy-axel&theme=github-dark&hide_border=true"/>
+</div>
+
+<details><summary> MORE STATS ... </summary>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=shaggy-axel&theme=radical"/>
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaggy-axel&theme=vue"/>
+</div>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=shaggy-axel&theme=radical"/>
+</div>
+</details>
+
 
 ## 🖥 Developer in
 [![image](https://user-images.githubusercontent.com/79697348/147478917-a948eb8f-f9eb-4126-b32f-e2d00cdf2bce.png)](https://supplar.cloud/)
