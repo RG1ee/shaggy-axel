@@ -31,8 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![tmux](https://img.shields.io/badge/Tmux-000000?style=for-the-badge&logo=Tmux)
 
 
-
-### 📊 GitHub Stats
+<details><summary><h3> 📊 GitHub Stats </h3></summary>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=shaggy-axel&label=visitors&color=0e75b6&style=plastic"/> </div><br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shaggy-axel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&custom_title=Shaggy"/>
@@ -45,8 +44,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaggy-axel&theme=github-dark&hide_border=true"/>
 </div>
-
-<details><summary> MORE STATS ... </summary>
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=shaggy-axel&theme=radical"/>
@@ -61,10 +58,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 </details>
 
+<details><summary><h2> 🖥 Developer in </h2></summary>
 
-## 🖥 Developer in
 [![image](https://user-images.githubusercontent.com/79697348/147478917-a948eb8f-f9eb-4126-b32f-e2d00cdf2bce.png)](https://supplar.cloud/)
 <!-- ![garaz](https://user-images.githubusercontent.com/79697348/147487745-e408fbfc-d737-4361-baae-de733f3626f3.png)
  -->
  * * *
  [![image](https://user-images.githubusercontent.com/79697348/147487899-0598af4b-6388-48be-a419-3be0567648db.png) GARAЖ - Corpberry](https://www.instagram.com/garazh.space/)
+
+</details>
