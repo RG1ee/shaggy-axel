@@ -11,12 +11,12 @@ You can click the Preview link to take a look at your changes.
                       / ___/ __ \/ __`/ __`/ __`/ / / / /  / |                       __          __          __     
                      (__  ) / / / /_/  /_/  /_/  /_/ / /  /| |          __         <($ )___    <($ )___    <($ )___ 
                     /____/_/ /_/\__,_/__,_/__,_/__,_/ /__/ | |__  _____/ /          ( ._> /     ( ._> /     ( ._> / 
-                                    /__/ /__/ /__/ /  _____| |\ \/ /__/ / __         `---'       `---'       `---'  
-                                    _________________/__/  | |/_/\_\ /_____/
+                                    /__/ /__/ /__/ / /_____| |\ \/ /__/ / __         `---'       `---'       `---'  
+                                    ________________/__/   | |/_/\_\ /_____/
 
 ```
 ### 📜 About Me
-- 🔭 I’m currently develop in [Supplar](https://supplar.cloud) and have remote job in Corpberry-__GARAЖ__.
+- 🔭 I’m currently develop in [Supplar](https://supplar.cloud).
 - 🌱 I teach programming and software development
 - 😊 I’m looking for friends from Python community.
 - 💬 Ask me about Python, Django, Docker, Linux.
@@ -73,10 +73,6 @@ You can click the Preview link to take a look at your changes.
     <div style="background-color: rgb(37, 35, 35); border-radius: 6em; width: 100px;">
         <img style="position:relative; top: 6px;" src="https://user-images.githubusercontent.com/79697348/154455296-7138f1e3-badb-43c7-996d-0a8bbec0fa29.png" width="180">
         <a href="https://supplar.cloud">Supplar - write backend for this mobile app</a>
-    </div>
-    <div style="position:relative; left: 3px; top: 100px;">
-        <img src="https://user-images.githubusercontent.com/79697348/154455058-90b19763-5a27-45b2-8d26-82469d69dead.png" width="90">
-        <a href="https://www.instagram.com/garazh.space/">GARAZH - outsource company</a>
     </div>
     <div style="position:relative; left: 6px; top: 100px;">
         <img src="https://user-images.githubusercontent.com/79697348/154445828-6f470b1c-865d-4926-a834-472b1d3a9487.png" width="90">
