@@ -25,6 +25,11 @@ You can click the Preview link to take a look at your changes.
 [![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/shaggy_axel)
 [![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume)](https://resume.shaggyaxel.ru/)
 
+
+<a href="https://www.buymeacoffee.com/shaggyaxelT">
+<img src="https://camo.githubusercontent.com/9098104e5daafdc329a70518b45ded656f305d1043fa6454ce405aec84509740/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d76696f6c65742e706e67" width=180>
+</a>
+
 ### 🛠 Languages and Tools
 ![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=blue)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
