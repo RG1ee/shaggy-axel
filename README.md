@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 ```
 ### 📜 About Me
 - 🔭 I’m currently develop in [Supplar](https://supplar.cloud).
+- 🐤 My Pet-Projects in org. [Shaggy Axel Apps](https://github.com/shaggy-axel-apps/).
 - 🌱 I teach programming and software development
 - 😊 I’m looking for friends from Python community.
 - 💬 Ask me about Python, Django, Docker, Linux.
