@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
 - 😊 I’m looking for friends from Python community.
 - 💬 Ask me about Python, Django, Docker, Linux.
 - 📧 How to reach me: <br>
-[![mail](https://img.shields.io/badge/eMail-000000?style=for-the-badge&logo=Mail)](mailto:kornerus@fjfi.cvut.cz)
+[![mail](https://img.shields.io/badge/eMail-000000?style=for-the-badge&logo=GMail)](mailto:shaggybackend@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/shaggy_axel)
-[![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume)](https://resume.shaggyaxel.ru/)
+[![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume)](https://github.com/shaggy-axel/resume/)
 
 
 <a href="https://www.buymeacoffee.com/shaggyaxelT">
