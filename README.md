@@ -73,20 +73,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-profile-trophy.vercel.app/?username=shaggy-axel&theme=radical"/>
 </div>
 </details>
-
-<details><summary><h2> 🖥 Developer in </h2></summary>
-<div style="display: flex; background-color: white; border-radius: 1em; align-self: center; width: 135px;">
-    <div style="background-color: rgb(37, 35, 35); border-radius: 6em; width: 100px;">
-        <img style="position:relative; top: 6px;" src="https://user-images.githubusercontent.com/79697348/154455296-7138f1e3-badb-43c7-996d-0a8bbec0fa29.png" width="180">
-        <a href="https://supplar.cloud">Supplar - write backend for this mobile app</a>
-    </div>
-    <div style="position:relative; left: 6px; top: 100px;">
-        <img src="https://user-images.githubusercontent.com/79697348/154445828-6f470b1c-865d-4926-a834-472b1d3a9487.png" width="90">
-        <a href="https://github.com/imega-webrx/">WebRX - write an scrapers for this startup</a>
-    </div>
-    <div style="position:relative; left: 9px; top: 100px;">
-        <img src="https://user-images.githubusercontent.com/79697348/154449529-24e070a3-2ce7-4402-827d-dcf4582700fd.png" width="90">
-        <a href="https://github.com/shaggy-axel-apps">Shaggy-Axel Organization - my organization with opensource different apps and tools</a>
-    </div>
-</div>
-</details>
