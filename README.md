@@ -20,8 +20,7 @@ You can click the Preview link to take a look at your changes.
   - [Kortechs](https://kortechs.io)
   - [Supplar](https://supplar.cloud)
 
-<img src="https://kortechs.io/static/kortechs-animation-2679aeaa10e6bfc346c95d38ac518bc0.gif" width=120>
-<img src="https://user-images.githubusercontent.com/79697348/154455296-7138f1e3-badb-43c7-996d-0a8bbec0fa29.png" width=120> 
+<img src="https://kortechs.io/static/kortechs-animation-2679aeaa10e6bfc346c95d38ac518bc0.gif" width=120> <img src="https://user-images.githubusercontent.com/79697348/154455296-7138f1e3-badb-43c7-996d-0a8bbec0fa29.png" width=160> 
 
 - 🐤 My Projects: [Shaggy Axel Apps](https://github.com/shaggy-axel-apps/).
 - 🌱 I'm mentor of backend development in Python
