@@ -16,12 +16,15 @@ You can click the Preview link to take a look at your changes.
 
 ```
 ### 📜 About Me
-- 🔭 I’m currently develop in
-  [<img src="https://kortechs.io/static/kortechs-animation-2679aeaa10e6bfc346c95d38ac518bc0.gif" width=120>]("https://kortechs.io")
-- 🐤 My Pet-Projects in org. [Shaggy Axel Apps](https://github.com/shaggy-axel-apps/).
-- 🌱 I teach programming and software development
-- 😊 I’m looking for friends from Python community.
-- 💬 Ask me about Python, Django, Docker, Linux.
+- 🔭 I’m currently develop in 
+  - [Kortechs](https://kortechs.io)
+  - [Supplar](https://supplar.cloud)
+
+<img src="https://kortechs.io/static/kortechs-animation-2679aeaa10e6bfc346c95d38ac518bc0.gif" width=120>
+<img src="https://user-images.githubusercontent.com/79697348/154455296-7138f1e3-badb-43c7-996d-0a8bbec0fa29.png" width=120> 
+
+- 🐤 My Projects: [Shaggy Axel Apps](https://github.com/shaggy-axel-apps/).
+- 🌱 I'm mentor of backend development in Python
 - 📧 How to reach me: <br>
 [![mail](https://img.shields.io/badge/eMail-000000?style=for-the-badge&logo=GMail)](mailto:shaggybackend@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/shaggy_axel)
