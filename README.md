@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ```
 ### 📜 About Me
-- 🔭 I’m currently develop in [Supplar](https://supplar.cloud).
+- 🔭 I’m currently develop in <a href="https://kortechs.io"> <img src="https://kortechs.io/static/kortechs-animation-2679aeaa10e6bfc346c95d38ac518bc0.gif" width=120> </a>
 - 🐤 My Pet-Projects in org. [Shaggy Axel Apps](https://github.com/shaggy-axel-apps/).
 - 🌱 I teach programming and software development
 - 😊 I’m looking for friends from Python community.
